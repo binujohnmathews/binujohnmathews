@@ -796,3 +796,9 @@ footer.entry-meta .meta-in {
     max-width: 1080px;
   }
 }
+
+@media (max-width: 768px) {
+  .main-content {
+   padding:5%;
+  }
+}
